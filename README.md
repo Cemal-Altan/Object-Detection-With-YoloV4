@@ -24,3 +24,5 @@ now we will run our system on python using opencv and numpy libraries. What we g
 We will use our weights file and the cfg file in the darknet files.
 You can use pycharm or spyder editors via anaconda while running the system.
 Now it's time to start the system . You can perform object recognition on the webcam or on a picture and video file. 
+# How can i start a video server from my phone for object detection ?
+For this, you must download the IP WEBCAM application to your android phone. Then you can start it by entering the "start a server" section at the bottom of the application menu. Then you can take the address on this server and write it to the required place in the "android camera.py" file.
