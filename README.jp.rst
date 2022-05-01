@@ -5,3 +5,4 @@ First we need to collect images of our target object you can do it from stock ph
 İmages of the target object must be in .jpg format .
 
 
+
